@@ -1,2 +1,3 @@
 # <h1> WELCOME THE PAGE </h1>
-<h2> I ADDED A WELCOME TO THE PAGE HEADING <h2>
+
+![Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
